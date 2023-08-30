@@ -13,3 +13,6 @@
 [submodule "ecommerce-gateway"]
 	path = ecommerce-gateway
 	url = git@github.com:luisbelisario/ecommerce-gateway.git
+[submodule "ecommerce-payments"]
+	path = ecommerce-payments
+	url = git@github.com:luisbelisario/ecommerce-payments.git
