@@ -1,0 +1,15 @@
+[submodule "ecommerce-users"]
+	path = ecommerce-users
+	url = git@github.com:luisbelisario/ecommerce-users.git
+[submodule "ecommerce-products"]
+	path = ecommerce-products
+	url = git@github.com:luisbelisario/ecommerce-products.git
+[submodule "ecommerce-orders"]
+	path = ecommerce-orders
+	url = git@github.com:luisbelisario/ecommerce-orders.git
+[submodule "ecommerce-server"]
+	path = ecommerce-server
+	url = git@github.com:luisbelisario/ecommerce-server.git
+[submodule "ecommerce-gateway"]
+	path = ecommerce-gateway
+	url = git@github.com:luisbelisario/ecommerce-gateway.git
