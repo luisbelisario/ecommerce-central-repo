@@ -1,4 +1,4 @@
-# ecommerce-central-repo
+# Ecommerce-central-repo
 
 This repo contains all the repositories for an ecommerce microservice environment. The project will follow the architecture bellow
 
